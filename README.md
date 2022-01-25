@@ -7,12 +7,12 @@
 - [featurs](#featurs)
 - [demo](#demo)
 ## general info
-in this repo, we are trying to implement a keyboad device driver using BIOS calls and interupts as bootable hard disk in virtual machine.
+This repo tried to implement a keyboard device driver using BIOS calls and interrupts as a bootable hard disk in a virtual machine.
 
 ## technologies 
-- notepad++
-- nasm
-- oracle vm virtual box
+- Notepad++
+- Nasm
+- Oracle VM virtual box
 
 ## download
 you can download the latest version of [notepad++](https://notepad-plus-plus.org/download/v7.6.3.html) , [nasm](https://www.nasm.us/pub/nasm/releasebuilds/?C=M;O=D) and [virtual box](https://www.virtualbox.org/wiki/Downloads) for windows
